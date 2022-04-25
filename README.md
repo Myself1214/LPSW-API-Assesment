@@ -10,6 +10,7 @@ and create our visualizations. We hope you will use each one of these documents 
 
 
 Below you will find our sources:
+
 https://api.census.gov/data.html
 https://www.census.gov/data/developers/data-sets/abs.2019.html
 https://api.census.gov/data/2018/abscs/variables.html
