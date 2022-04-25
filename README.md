@@ -14,6 +14,11 @@ Furthermore, we created an ETL report in which we each walk you through the step
 and create our visualizations. We hope you will use each one of these documents for your knowledge and understanding.
 
 
+Here is the master merge from one of use to give you an idea of what the kind of work we did was like:
+
+![Screenshot 2022-04-24 215523](https://user-images.githubusercontent.com/102984627/165018350-12234955-f938-4730-b705-64742132be1a.png)
+
+
 Below you will find our sources:
 
 https://api.census.gov/data.html
