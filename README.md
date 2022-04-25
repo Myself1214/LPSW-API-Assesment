@@ -7,3 +7,9 @@ You can see this information in our group code.
 Also we created a project report file in which we each walk you through our visualizations and results we obtained.
 Furthermore, we created an ETL report in which we each walk you through the steps we went through to gather our API's, merge our dataframes, clean/transform our data,
 and create our visualizations. We hope you will use each one of these documents for your knowledge and understanding.
+
+
+Below you will find our sources:
+https://api.census.gov/data.html
+https://www.census.gov/data/developers/data-sets/abs.2019.html
+https://api.census.gov/data/2018/abscs/variables.html
